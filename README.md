@@ -9,6 +9,7 @@ https://data.worldbank.org
 - Educational attainment, at least completed post-secondary, population 25+, total (%) (cumulative)
 - GNI per capita, Atlas method (current US$)
 - Gini index
+- Birth rate
 - Urban population (% of total population)
 
 https://genderdata.worldbank.org/
