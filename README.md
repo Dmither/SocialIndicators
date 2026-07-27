@@ -21,3 +21,35 @@ https://ourworldindata.org/life-expectancy
 
 https://worldjusticeproject.org/
 - Rule of Law Index
+
+
+## Steps taken
+
+These steps cover Data Analysis and Statistic topics.
+
+### Data preparation
+
+- collecting
+- loading and inspecting
+- merging
+
+### Correlation and relation analysis
+
+- correlation matrix
+- paired t-test
+
+## Future steps
+
+These steps cover Machine Learning topics.
+
+### Causal relationships
+
+- Granger Causality Tests
+- Lagged Regression Models
+- Panel Data Analysis
+
+### Proportional Influence
+
+- Structural Equation Modeling (SEM)
+- Variance Decomposition
+- Counterfactual Analysis
